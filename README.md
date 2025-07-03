@@ -1,8 +1,4 @@
 - 👋 Hi, I’m srinath
-- 👀 I’m interested in software developing
-- 🌱 I’m currently learning java
-- 📫 srinathshreee777@gmail.com
-Suggestions are welocme
 
 
 <!---
